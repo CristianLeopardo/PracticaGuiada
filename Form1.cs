@@ -14,6 +14,7 @@ namespace PracticaGuiadaEjFinal
     {
         public fdmInicio()
         {
+            //asd
             InitializeComponent();
         }
 
